@@ -5,9 +5,9 @@ import datetime
 import time
 # Create your views here.
 
-WORD_LIST = ["Liquid_Cooling","Operating_System","Shell_Scripting","Compiler","Cloud_Storage","Cache","RAM","Inbuilt_function","Algorithms","Android","Java",
-"Linux","Machine_Learning","Automation","Data_Analysis","Virtual_Reality","Anaconda","Protocols","Firewall","Mac_Address","PHP","GitHub","Pandas","Bitcoin",
-"AI","Recycle_Bin","Command_Prompt","Encapsulation","Processor","Antivirus","Kali","Topology","timepass"]
+WORD_LIST = ["Liquid_Cooling","Shell_Scripting","Cloud_Storage","Cache","RAM","Algorithms","Android","Inbuilt_function","Java","PHP",
+"Linux","Recycle_Bin","Data_Analysis","Protocols","Virtual_Reality","Firewall","GitHub","Bitcoin","Mac_Address","Pandas",
+"AI","Command_Prompt","Automation","Compiler","Machine_Learning","Processor","Anaconda","Antivirus","Kali","Topology","timepass","Operating_System","Encapsulation"]
 
 count = 0
 team_name1 = ""
