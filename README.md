@@ -14,6 +14,10 @@
 * [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * [Javascript](https://www.javascript.com/)
 * [Django](https://www.djangoproject.com/)
+## Contributors
+### 1. [Manaswee Adwant](https://github.com/ManasweeA)  
+### 2. [Safir Motiwala](https://github.com/safir72347)
+### 3. [Vinayak Sutar](https://github.com/vinayaksutar2063)
 ## Upcoming Update Plan for Persona Fest 2021
 1. Session for Each User
 2. Random Clue Generation for each user (Merge whole Database)
